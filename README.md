@@ -8,6 +8,8 @@ First, run the development server:
 npm run dev
 # or
 yarn devs
+# ors
+yarn dev
 # or
 pnpm dev
 # or
