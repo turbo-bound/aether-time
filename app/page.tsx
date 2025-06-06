@@ -20,7 +20,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Get TurboBounded 5→
+          Get TurboBounded 6→
         </a>
       </footer>
     </div>
